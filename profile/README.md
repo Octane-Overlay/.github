@@ -15,7 +15,7 @@ Octane Overlay is an open source toolkit for building Rocket League broadcast ov
 - Enable the game stats api, see: [Manual](https://www.rocketleague.com/en/developer/stats-api#configuration)
 - Download the latest release of the Bridge here: [Bridge Releases](https://github.com/Octane-Overlay/Octane-Bridge/releases)
 - Open the admin panel, either via [Website](https://octane-rl.app), or by cloning and running the admin panel yourself
-- Run the React Example, or the Starter Template and add it as a browser source in your streaming software
+- Run the React Example, or build your own overlay from scratch and add it as a browser source in your streaming software
 - Start streaming
 
 MIT licensed. Built because the existing tools either ship as closed-source launchers or lock customization behind a paywall
