@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Octane Overlay is an open source toolkit for building Rocket League broadcast overlays. It connects to Rocket League's native game stats feed and exposes the data as a clean WebSocket API, a typed JavaScript client, and a set of React hooks, so you can build a custom overlay for your stream, tournament, or org in an afternoon instead of a weekend.
+Octane Overlay is an open source toolkit for building Rocket League broadcast overlays. It connects to Rocket League's native game stats feed and exposes the data as a clean WebSocket API, a typed JavaScript client, and a set of React hooks, so you can build a custom overlay for your stream, tournament, or org in minutes not days or weeks.
 
 ### What's in the box:
 
