@@ -5,9 +5,9 @@ Octane Overlay is an open source toolkit for building Rocket League broadcast ov
 ### What's in the box:
 
 - [x] Bridge - a small Windows binary that talks to Rocket League and exposes a local WebSocket
-- [x] Core - typed JS/TS package that wraps the WebSocket and gives you all game state as plain objects
+- [x] Core - typed JS/TS package that wraps the WebSocket and gives you all game stats as plain objects
 - [x] Admin - an admin panel that allows you to set team names, logos, and series length. Connects to the local bridge. 
-- [x] React - drop-in hooks like usePlayers(), useSeriesScore(), useBoost() for building overlays as React components
+- [x] React - drop-in hooks like useOctaneState, useOctaneMeta(), for building overlays as React components
 - [x] React Example - An example application written in React that uses the React package
 
 ### How to use:
